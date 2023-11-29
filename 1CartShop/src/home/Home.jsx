@@ -5,6 +5,8 @@ import CategoryShow from './CategoryShow'
 import Register from './Register'
 import Locations from './Locations'
 import AboutUs from './AboutUs'
+import AppSection from './AppSection'
+import Sponsors from './Sponsors'
 
 const Home = () => {
   return (
@@ -15,6 +17,8 @@ const Home = () => {
         <Register/>
         <Locations/>
         <AboutUs/>
+        <AppSection/>
+        <Sponsors/>
     </div>
   )
 }

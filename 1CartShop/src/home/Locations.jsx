@@ -14,7 +14,7 @@ text: "-Kudos to 1Cartshop team for a seemless support and discounts!"
 {
 imgUrl: '/src/assets/images/clients/avater.jpg',
 imgAlt: 'education thumb rajibraj91 rajibraj',
-text: 'Join with Us',
+text: '"Discounts are real!!! No need to ask for it!"',
 },
 {
 imgUrl: '/src/assets/images/clients/avater.jpg',
