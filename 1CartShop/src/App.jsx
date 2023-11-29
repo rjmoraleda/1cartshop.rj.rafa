@@ -1,7 +1,9 @@
 
-import { Outlet } from 'react-router-dom'
-import './App.css'
-import NavItems from './components/NavItems'
+import { Outlet } from 'react-router-dom';
+import './App.css';
+import NavItems from './components/NavItems';
+import Footer from './components/footer';
+
 
 function App() {
   
@@ -9,6 +11,7 @@ function App() {
     <>
     <NavItems/>
       <Outlet/>
+      <Footer/>
     </>
   )
 }
